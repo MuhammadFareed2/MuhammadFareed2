@@ -44,7 +44,7 @@ I actively contribute to **open-source projects**, explore new tech, and love co
 ## 📫 Contact Me
 - **Email:** [m.fareed.1411@gmail.com](mailto:m.fareed.1411@gmail.com)  
 - **LinkedIn:** [Muhammad Fareed](https://www.linkedin.com/in/muhammadfareed2024/)  
-- **Twitter:** [@MuhammadFareed](https://twitter.com/MuhammadFareed)  
+
 
 ---
 
