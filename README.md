@@ -28,15 +28,16 @@ I actively contribute to **open-source projects**, explore new tech, and love co
 
 ### [My Portfolio](https://muhammadfareed.vercel.app/)
 - **GitHub:** [My-Portfolio](https://github.com/MuhammadFareed2/My-Portfolio)  
-- **Tech Stack:** React, Next.js, Tailwind CSS  
+- **Tech Stack (Frontend):** Next.js, TypeScript, Tailwind CSS, Framer Motion, Resend  
 - A clean and responsive personal portfolio website to showcase projects, skills, and experience.
 
 ### [BriefAI](https://brief-ai-frontend.vercel.app/)
 - **GitHub:** [Brief-AI](https://github.com/MuhammadFareed2/Brief-AI)  
-- **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS  
+- **Tech Stack:** JavaScript, React, Node.js, Express, MongoDB, AI Integration, Tailwind CSS, JWT  
 - A modern web application for managing and generating project briefs efficiently with AI assistance.
 
 > More projects are available in my [GitHub repositories](https://github.com/MuhammadFareed2).
+
 
 ---
 
