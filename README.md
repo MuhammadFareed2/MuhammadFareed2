@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Muhammad Fareed
 
-### Full-Stack Developer | Open-Source Enthusiast | Problem Solver
+### Full-Stack Developer | AI Integrator | SaaS & MVP Builder
 
 ---
 
