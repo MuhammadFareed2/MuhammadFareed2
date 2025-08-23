@@ -75,9 +75,13 @@ I actively contribute to **open-source projects**, explore new tech, and love co
 ---
 
 ## 📊 GitHub Stats
-![Muhammad Fareed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadFareed2&show_icons=true&hide_border=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFareed2&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFareed2&layout=compact&hide_border=true&theme=radical)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammadFareed2&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
