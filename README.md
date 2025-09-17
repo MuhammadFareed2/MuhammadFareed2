@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Fareed</h1>
 
-<h3 align="center">Full-Stack Developer | AI Integrator | SaaS & MVP Builder</h3>
+<h3 align="center">Full-Stack Developer | AI Development | SaaS & MVP Builder</h3>
 
 ---
 
