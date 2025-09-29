@@ -148,16 +148,17 @@ Mobile & Tools:
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFareed2&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFareed2&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" />
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFareed2&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFareed2&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadFareed2&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MuhammadFareed2&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
