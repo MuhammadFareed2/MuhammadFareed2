@@ -51,10 +51,14 @@ I actively contribute to <b>open-source projects</b>, explore new tech, and love
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" title="GitHub Actions" /> 
 </div>
 
-### 📱 Mobile & Tools  
+### 📱 Mobile
 <div align="center">
   <img src="https://img.icons8.com/color/48/flutter.png" width="40" title="Flutter" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="40" title="React Native" /> 
+</div>
+
+### 📱 Tools  
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" /> 
